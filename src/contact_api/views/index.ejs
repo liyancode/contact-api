@@ -1,0 +1,67 @@
+<%- include header%>
+<!--body content-->
+<div id="page-index" class="page">
+     <div class="page-region">
+        <div class="page-region-content">
+           <div class="grid">
+              <div class="row">
+                 <div class="span4 bg-color-blue">
+                 <h2 class="fg-color-white">&nbsp;研讨班进度</h2>
+                 </div>
+                 <div class="span4 bg-color-green">
+                 <h2 class="fg-color-white">&nbsp;话题讨论</h2>
+                 </div>
+                 <div class="span4 bg-color-yellow">
+                 <h2 class="fg-color-white">&nbsp;成果展示</h2>
+                 </div>
+              </div>
+           </div>
+           <div class="grid">
+              <div class="row">
+                 <div class="span4">
+                 <% posts.forEach(function (post, index) { %>
+                                       <h2><%= post.title %></h2>
+                                       <p><%- post.post %></p>
+                                     <% }) %>
+                 </div>
+                 <div class="span4">
+                    <h2>欢迎</h2>
+                    <p>
+                       Metro UI CSS 是一套用来创建类似于Windows 8 Metro UI风格网站的样式. 这组风格被开发成一个独立的解决方案。
+                    </p>
+                    <p>
+                       Metro UI CSS包含两种类型的许可证: <a href="https://github.com/olton/Metro-UI-CSS/blob/master/LICENSE">MIT</a> 和 <a href="https://github.com/olton/Metro-UI-CSS/blob/master/LICENSE-FOR-COMMERCIAL-USE">Commercial</a>
+                    </p>
+                    <h3>LESS</h3>
+                    <p class="tertiary-info-text">
+                       Metro UI CSS是用LESS在开发. 一个很优秀的男人，<a href="http://cloudhead.io/">Alexis Sellier</a>创建了这个动态CSS语言<a href="http://www.bootcss.com/lesscss.html">LESS</a>。 它使开发CSS更快、更简便、更有趣。
+                    </p>
+                    <h3>支持的浏览器:</h3>
+
+                    <br>
+                    <p class="tertiary-info-secondary-text">所有现代浏览器和IE9+</p>
+
+                 </div>
+                 <div class="span4">
+                    <h2>欢迎</h2>
+                    <p>
+                       Metro UI CSS 是一套用来创建类似于Windows 8 Metro UI风格网站的样式. 这组风格被开发成一个独立的解决方案。
+                    </p>
+                    <p>
+                       Metro UI CSS包含两种类型的许可证: <a href="https://github.com/olton/Metro-UI-CSS/blob/master/LICENSE">MIT</a> 和 <a href="https://github.com/olton/Metro-UI-CSS/blob/master/LICENSE-FOR-COMMERCIAL-USE">Commercial</a>
+                    </p>
+                    <h3>LESS</h3>
+                    <p class="tertiary-info-text">
+                       Metro UI CSS是用LESS在开发. 一个很优秀的男人，<a href="http://cloudhead.io/">Alexis Sellier</a>创建了这个动态CSS语言<a href="http://www.bootcss.com/lesscss.html">LESS</a>。 它使开发CSS更快、更简便、更有趣。
+                    </p>
+                    <h3>支持的浏览器:</h3>
+
+                    <br>
+                    <p class="tertiary-info-secondary-text">所有现代浏览器和IE9+</p>
+                 </div>
+              </div>
+           </div>
+        </div>
+     </div>
+</div>
+<%- include footer%>

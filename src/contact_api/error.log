@@ -1,0 +1,108 @@
+[Tue Nov 12 2013 20:14:22 GMT+0800 (CST)] /
+SyntaxError: Unexpected token ) in "/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/views/index.ejs"
+    at Object.Function (<anonymous>)
+    at exports.compile (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:236:14)
+    at Object.exports.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:283:10)
+    at View.exports.renderFile [as engine] (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:317:20)
+    at View.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/view.js:76:8)
+    at Function.app.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/application.js:504:10)
+    at ServerResponse.res.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/response.js:801:7)
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/routes/index.js:17:17
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/models/post.js:91:25
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/mongodb/lib/mongodb/cursor.js:158:16
+[Tue Nov 12 2013 20:14:30 GMT+0800 (CST)] /
+SyntaxError: Unexpected token ) in "/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/views/index.ejs"
+    at Object.Function (<anonymous>)
+    at exports.compile (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:236:14)
+    at Object.exports.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:283:10)
+    at View.exports.renderFile [as engine] (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:317:20)
+    at View.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/view.js:76:8)
+    at Function.app.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/application.js:504:10)
+    at ServerResponse.res.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/response.js:801:7)
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/routes/index.js:17:17
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/models/post.js:91:25
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/mongodb/lib/mongodb/cursor.js:158:16
+[Tue Nov 12 2013 20:14:36 GMT+0800 (CST)] /
+SyntaxError: Unexpected token ) in "/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/views/index.ejs"
+    at Object.Function (<anonymous>)
+    at exports.compile (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:236:14)
+    at Object.exports.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:283:10)
+    at View.exports.renderFile [as engine] (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:317:20)
+    at View.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/view.js:76:8)
+    at Function.app.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/application.js:504:10)
+    at ServerResponse.res.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/response.js:801:7)
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/routes/index.js:17:17
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/models/post.js:91:25
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/mongodb/lib/mongodb/cursor.js:158:16
+[Tue Nov 12 2013 20:14:41 GMT+0800 (CST)] /
+SyntaxError: Unexpected token ) in "/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/views/index.ejs"
+    at Object.Function (<anonymous>)
+    at exports.compile (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:236:14)
+    at Object.exports.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:283:10)
+    at View.exports.renderFile [as engine] (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:317:20)
+    at View.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/view.js:76:8)
+    at Function.app.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/application.js:504:10)
+    at ServerResponse.res.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/response.js:801:7)
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/routes/index.js:17:17
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/models/post.js:91:25
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/mongodb/lib/mongodb/cursor.js:158:16
+[Tue Nov 12 2013 20:15:00 GMT+0800 (CST)] /
+SyntaxError: Unexpected token ) in "/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/views/index.ejs"
+    at Object.Function (<anonymous>)
+    at exports.compile (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:236:14)
+    at Object.exports.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:283:10)
+    at View.exports.renderFile [as engine] (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:317:20)
+    at View.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/view.js:76:8)
+    at Function.app.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/application.js:504:10)
+    at ServerResponse.res.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/response.js:801:7)
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/routes/index.js:17:17
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/models/post.js:91:25
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/mongodb/lib/mongodb/cursor.js:158:16
+[Tue Nov 12 2013 20:15:28 GMT+0800 (CST)] /
+SyntaxError: Unexpected token ) in "/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/views/index.ejs"
+    at Object.Function (<anonymous>)
+    at exports.compile (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:236:14)
+    at Object.exports.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:283:10)
+    at View.exports.renderFile [as engine] (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/ejs/lib/ejs.js:317:20)
+    at View.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/view.js:76:8)
+    at Function.app.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/application.js:504:10)
+    at ServerResponse.res.render (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/response.js:801:7)
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/routes/index.js:17:17
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/models/post.js:91:25
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/mongodb/lib/mongodb/cursor.js:158:16
+[Wed Nov 13 2013 15:04:13 GMT+0800 (CST)] /readme
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/routes/index.js:11:23
+    at callbacks (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/router/index.js:164:37)
+    at param (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/router/index.js:138:11)
+    at pass (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/router/index.js:33:10)
+    at next (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+    at next (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/node_modules/connect/lib/middleware/session.js:318:9)
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/node_modules/connect/lib/middleware/session.js:342:9
+[Wed Nov 13 2013 15:04:43 GMT+0800 (CST)] /readme
+SyntaxError: Unexpected token l
+    at Object.parse (native)
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/routes/index.js:11:23
+    at callbacks (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/router/index.js:164:37)
+    at param (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/router/index.js:138:11)
+    at pass (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/router/index.js:33:10)
+    at next (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+    at next (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/node_modules/connect/lib/middleware/session.js:318:9)
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/node_modules/connect/lib/middleware/session.js:342:9
+[Wed Nov 13 2013 15:06:08 GMT+0800 (CST)] /readme
+SyntaxError: Unexpected token o
+    at Object.parse (native)
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/routes/index.js:12:23
+    at callbacks (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/router/index.js:164:37)
+    at param (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/router/index.js:138:11)
+    at pass (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/lib/router/index.js:33:10)
+    at next (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+    at next (/home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/node_modules/connect/lib/middleware/session.js:318:9)
+    at /home/littlethinker/liyan/yan1/Project/Idea/NodeJS_myblog/contact_api/node_modules/express/node_modules/connect/lib/middleware/session.js:342:9
